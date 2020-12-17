@@ -6,4 +6,4 @@ When complete, the Grand Renaissance Dam, which Ethiopia is building, will be Af
 Its construction began in 2011 on the Blue Nile tributary in the northern Ethiopia highlands, from where 85% of the Nile's waters flow.
 However, the mega dam has caused a row between Egypt and Ethiopia, with Sudan caught in between, which some fear could lead to war, and the US is now trying to mediate.
 
-This sentiment analysis program extracts 1780 tweets from twiter user and find insight from the analysis and visualize the final result.
+This sentiment analysis program extracts 1780 tweets from twiter user under the hashtag #GERD and find insight from the analysis and visualize the final result.
